@@ -3,7 +3,7 @@
 <br>
 Welcome to DiabetesPrediction-MachineLearning! This project leverages the power of machine learning to predict diabetes and heart disease, providing valuable insights for preventive healthcare.
 <br>
-<img src="./static/public/1.png" alt="logo" width=1710 height=400 /> 
+<img src="./static/public/1.png" alt="logo" width=1600 height=300 /> 
 🌟 Features
 Diabetes Prediction 🩸
 Utilizing advanced algorithms to analyze medical data and predict the likelihood of diabetes, helping users take proactive measures for their health.
